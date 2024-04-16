@@ -5,7 +5,7 @@ Projeto feito em uma aula da Alura há alguns anos utilizando JavaScript. Um jog
 
 ## Como jogar? 
 
-Com as setas do mouse basta andar com o Xaropinho, com um objetivo simples: atravessar a Anchieta sem ser atropelado. 
+Com as setas do teclado basta andar com o Xaropinho, com um objetivo simples: atravessar a Anchieta sem ser atropelado. 
 
 ### Tecnologia utilizada:
 
